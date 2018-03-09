@@ -1,0 +1,3 @@
+IP of server: mc.play.ru
+Port of server: 12345
+All together: mc.craft.ru:12345
